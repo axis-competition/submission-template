@@ -1,6 +1,6 @@
 # [Judul Aplikasi Web]
 
-> AXIS 2026 | National Frontend Development Competition | GALAKSI 2026
+> AXIS 2026 | Frontend Development Competition | GALAKSI 2026
 
 **Kategori:** [A / B / C]
 
